@@ -111,7 +111,7 @@ To deploy:
 streamlit run app.py
 ```
 
-<img width="1111" alt="deployment_image" src="/Users/akb/Desktop/DS/BIA/Projects/Miniproject_2/deployment_SS.png">
+<img width="1111" alt="deployment_image" src="deployment_SS.png">
 
 
 ## Results
