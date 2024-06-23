@@ -27,6 +27,10 @@ Customer churn prediction is crucial for retaining valuable customers in the tel
 
 <img width="1502" alt="workflow_diagram" src="/Users/akb/Desktop/DS/BIA/Projects/Miniproject_2/workflow.png">
 
+<img width="1502" alt="workflow_diagram" src="images/workflow.png">
+<img width="1111" alt="deployment_image" src="images/deployment_SS.png">
+
+
 
 
 ## Dataset
